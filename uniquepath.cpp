@@ -1,5 +1,4 @@
-// C++ code to find number of unique paths 
-// in a Matrix
+
 #include<bits/stdc++.h>
 using namespace std;
 
@@ -62,4 +61,4 @@ vector<vector<int>> A = { { 0, 0, 0 },
 cout << uniquePathsWithObstacles(A) << " \n";											 
 }
 
-// This code is contributed by ajaykr00kj
+
